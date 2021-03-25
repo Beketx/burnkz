@@ -99,8 +99,6 @@ local_settings.py
 db.sqlite3
 
 # staticfiles
-
-static/
 staticfiles/
 
 .idea
