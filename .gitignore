@@ -95,10 +95,10 @@ target/
 pycache/
 local_settings.py
 
-.env
+#.env
 db.sqlite3
 
 # staticfiles
-#staticfiles/
+staticfiles/
 
 .idea
