@@ -1,1 +1,1 @@
-web:gunicorn burnkz.wsgi
+web: gunicorn burnkz.wsgi --log-file -
