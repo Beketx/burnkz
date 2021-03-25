@@ -11,7 +11,7 @@ Icon
 
 # migrations
 */migrations/*.py
-.env
+#.env
 .mypy_cache
 media/
 !*/migrations/
